@@ -1,0 +1,10 @@
+{
+  "name": "Business Elite",
+  "version": "1.0.0",
+  "description": "A professional, enterprise-focused theme for RustPress CMS",
+  "author": "RustPress Team",
+  "license": "MIT",
+  "homepage": "https://github.com/rustpress-net/rustpress-theme-business-elite",
+  "keywords": ["business", "corporate", "professional", "enterprise"],
+  "rustpress_version": ">=1.0.0"
+}
